@@ -1,0 +1,84 @@
+Success rate: 94.83%
+bandwidth: 676.46
+Success rate: 99.81%
+bandwidth: 6988.02
+Success rate: 99.98%
+bandwidth: 6965.44
+Success rate: 99.84%
+bandwidth: 6355.26
+Success rate: 99.81%
+bandwidth: 7301.54
+Success rate: 99.86%
+bandwidth: 6921.33
+Success rate: 99.82%
+bandwidth: 6703.13
+Success rate: 99.83%
+bandwidth: 7258.76
+Success rate: -nan%
+bandwidth: 0.00
+Success rate: -nan%
+bandwidth: 0.00
+Success rate: 98.65%
+bandwidth: 1676.96
+Success rate: 89.63%
+bandwidth: 286.35
+Success rate: 95.26%
+bandwidth: 649.81
+Success rate: 97.68%
+bandwidth: 1094.26
+Success rate: 99.84%
+bandwidth: 6715.74
+Success rate: 88.48%
+bandwidth: 635.20
+Success rate: 99.84%
+bandwidth: 6572.07
+Success rate: 85.69%
+bandwidth: 468.81
+Success rate: 99.90%
+bandwidth: 6329.18
+Success rate: 91.40%
+bandwidth: 499.74
+Success rate: 94.84%
+bandwidth: 2230.11
+Success rate: 91.17%
+bandwidth: 828.36
+Success rate: 87.28%
+bandwidth: 8.85
+Success rate: 98.49%
+bandwidth: 1484.05
+Success rate: 99.72%
+bandwidth: 6509.63
+Success rate: 88.46%
+bandwidth: 539.30
+Success rate: 75.36%
+bandwidth: 70.20
+Success rate: 97.63%
+bandwidth: 974.00
+Success rate: 98.98%
+bandwidth: 4769.60
+Success rate: 99.72%
+bandwidth: 6727.11
+Success rate: 99.84%
+bandwidth: 6707.63
+Success rate: 68.19%
+bandwidth: 49.26
+Success rate: 99.77%
+bandwidth: 7770.00
+Success rate: 99.96%
+bandwidth: 8068.90
+Success rate: 99.77%
+bandwidth: 4818.54
+Success rate: 99.50%
+bandwidth: 7816.35
+Success rate: 97.84%
+bandwidth: 1280.61
+Success rate: 97.75%
+bandwidth: 984.06
+Success rate: 96.97%
+bandwidth: 13.49
+Success rate: 96.44%
+bandwidth: 876.57
+Success rate: 82.08%
+bandwidth: 427.43
+Success rate: 98.66%
+bandwidth: 1597.56
