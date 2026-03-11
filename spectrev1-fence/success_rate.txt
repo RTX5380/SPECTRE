@@ -1,0 +1,8 @@
+Success rate: 78.90%
+bandwidth: 356.88
+Success rate: 67.10%
+bandwidth: 87.36
+Success rate: 99.67%
+bandwidth: 6495.03
+Success rate: 99.75%
+bandwidth: 6268.81
